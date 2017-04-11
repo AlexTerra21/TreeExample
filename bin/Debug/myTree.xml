@@ -1,0 +1,11 @@
+<Head>
+  <Node Value="1">
+    <Node Value="Str">
+      <Node Value="18" />
+    </Node>
+    <Node Value="3,14">
+      <Node Value="1,999" />
+    </Node>
+    <Node Value="10000" />
+  </Node>
+</Head>
